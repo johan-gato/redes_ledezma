@@ -1,1 +1,4 @@
-print("chupalo")
+texto = ("chupalo, chupalo, chupalo, chupalo, chupalo, chupalo, ")
+
+
+print(texto)
