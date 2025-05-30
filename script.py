@@ -5,11 +5,6 @@ print(texto)
 
 
 
-testeando repo
+buaaah que locura esto
 
 testeo repo v2
-
-
-
-gato maleante 
-mabri pacheco 
