@@ -5,6 +5,4 @@ print(texto)
 
 
 
-testeando repo
-
-testeo repo v2
+buaaah que locura esto
