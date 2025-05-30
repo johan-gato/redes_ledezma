@@ -5,8 +5,6 @@ print(texto)
 
 
 
-testeando repo
+buaaah que locura esto
 
 testeo repo v2
-
-wena shoro  testeo repo v3| testeo repo v4  
